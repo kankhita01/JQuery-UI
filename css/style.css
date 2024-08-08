@@ -1,0 +1,146 @@
+.jquery_ui{
+    padding: 50px 0;
+    text-align: center;
+    background-color: floralwhite;
+}
+#draggable img{
+    width: 300px;
+    height: 200px;
+    padding: 0.5em;
+    margin: auto;
+}
+.form{
+    margin: auto;
+}
+#feedback {
+    font-size: 1.4em;
+}
+#selectable .ui-selecting {
+    background: #FECA40;
+}
+#selectable .ui-selected {
+    background: #F39814;
+    color: white;
+}
+#selectable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 40%;
+    margin: auto;
+}
+#selectable li {
+    margin: 6px;
+    padding: 5px 12px;
+    font-size: 19px;
+    border: 1px solid;
+    border-radius: 3px;
+}
+#sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60%;
+    margin: auto;
+}
+#sortable li {
+    margin: 6px;
+    padding: 5px 12px;
+    font-size: 19px;
+    border: 1px solid;
+    border-radius: 3px;
+}
+#sortable li span {
+    position: absolute;
+    margin-left: -1.3em;
+}
+#resizable {
+    width: 150px;
+    height: 150px;
+    padding: 0.5em;
+    margin: auto;
+    background-color: #64b5f6;
+}
+#resizable h5 {
+    text-align: center;
+    margin: 0;
+    color: #ffee58;
+}
+#dragg {
+    width: 100px;
+    height: 100px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px 10px 10px 0; 
+}
+#droppable {
+    width: 150px; 
+    height: 150px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px; 
+}
+fieldset {
+    border: 0;
+}
+.toggler{
+    width: 300px;
+    height: 100px;
+    margin: auto;
+}
+.ui-menu { 
+    width: 150px;
+    margin: auto;
+}
+.overflow {
+    height: 200px;
+}
+.color { 
+    width: 500px; 
+    height: 200px; 
+    position: relative;
+    margin: auto; 
+}
+#button { 
+    padding: .5em 1em; 
+    text-decoration: none; 
+}
+#animation {
+    margin: auto;  
+    height: 170px; 
+    padding: 0.4em; 
+    position: relative; 
+    background: #fff; 
+}
+#animation h3 { 
+    margin: 0; 
+    padding: 0.4em; 
+    text-align: center; 
+}
+.toggler_h { 
+    width: 520px; 
+    height: 250px;
+    margin: auto; 
+}
+#button_h { 
+    padding: .5em 1em; 
+    text-decoration: none; 
+}
+#hide {
+    margin: auto; 
+    width: 240px; 
+    height: 190px; 
+    padding: 0.4em; 
+    position: relative; 
+}
+#hide h3 { 
+    margin: 0; 
+    padding: 0.4em; 
+    text-align: center; 
+}
+#tabs ul li{
+    list-style: none;
+}
+#tabs ul li a{
+    text-decoration: none;
+}
